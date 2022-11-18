@@ -1,4 +1,4 @@
-# Scroll animation Three.js
+# Scroll based animation - Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
